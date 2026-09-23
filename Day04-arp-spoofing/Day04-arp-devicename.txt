@@ -1,3 +1,0 @@
-192.168.0.1     c0:c9:e3:7e:bc:8a   (Router/Gateway)
-192.168.0.102   38:7a:0e:b7:aa:e3   (Unknown Device) - TpLink vendor, Wireshark göstərdi)
-192.168.0.105   00:0c:29:ea:5f:ae   (Metasploitable - VMware)
